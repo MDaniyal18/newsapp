@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MDaniyal18/newsapp.git/static/css/main.cffb9bad.css",
+    "main.js": "/MDaniyal18/newsapp.git/static/js/main.86128b4b.js",
+    "static/js/787.4c026eef.chunk.js": "/MDaniyal18/newsapp.git/static/js/787.4c026eef.chunk.js",
+    "index.html": "/MDaniyal18/newsapp.git/index.html",
+    "main.cffb9bad.css.map": "/MDaniyal18/newsapp.git/static/css/main.cffb9bad.css.map",
+    "main.86128b4b.js.map": "/MDaniyal18/newsapp.git/static/js/main.86128b4b.js.map",
+    "787.4c026eef.chunk.js.map": "/MDaniyal18/newsapp.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cffb9bad.css",
+    "static/js/main.86128b4b.js"
+  ]
+}
